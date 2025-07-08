@@ -1,0 +1,62 @@
+[
+    {
+        "nombre": "FRAN",
+        "puntuacion": 125,
+        "fecha": "04/07/2025 15:24"
+    },
+    {
+        "nombre": "BAUTISTA",
+        "puntuacion": 75,
+        "fecha": "04/07/2025 19:15"
+    },
+    {
+        "nombre": "LUIS",
+        "puntuacion": 125,
+        "fecha": "04/07/2025 19:16"
+    },
+    {
+        "nombre": "JUANA",
+        "puntuacion": 175,
+        "fecha": "04/07/2025 19:16"
+    },
+    {
+        "nombre": "LUCIA",
+        "puntuacion": 125,
+        "fecha": "05/07/2025 23:40"
+    },
+    {
+        "nombre": "IGNACIO",
+        "puntuacion": 275,
+        "fecha": "05/07/2025 23:42"
+    },
+    {
+        "nombre": "NACHO",
+        "puntuacion": 125,
+        "fecha": "06/07/2025 16:41"
+    },
+    {
+        "nombre": "JUAN",
+        "puntuacion": 270,
+        "fecha": "07/07/2025 16:44"
+    },
+    {
+        "nombre": "GERMAN",
+        "puntuacion": 0,
+        "fecha": "07/07/2025 16:45"
+    },
+    {
+        "nombre": "MANU",
+        "puntuacion": 20,
+        "fecha": "07/07/2025 16:46"
+    },
+    {
+        "nombre": "SOFIA",
+        "puntuacion": 160,
+        "fecha": "07/07/2025 16:46"
+    },
+    {
+        "nombre": "IGNACIO",
+        "puntuacion": 80,
+        "fecha": "07/07/2025 19:01"
+    }
+]
