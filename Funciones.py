@@ -177,7 +177,7 @@ def leer_csv_preguntas(nombre_archivo: str, lista_preguntas: list, separador: st
     """
     if os.path.exists(nombre_archivo):
         with open(nombre_archivo, "r", encoding="utf-8") as archivo:
-            archivo.readline()  # Saltar cabecera
+            archivo.readline() 
             for linea in archivo:
                 linea = linea.strip()
                 datos = linea.split(separador)
